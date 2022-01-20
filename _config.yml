@@ -1,9 +1,7 @@
 title: Ziyi Yang # your name (or website title) here
 logo: "/images/2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Student at University of Pennsylvania 
-  <br><br>
-  Master of Urban Spatial Analytics
+  Student at University of Pennsylvania--Master of Urban Spatial Analytics
   <br><br>
   
 theme: jekyll-theme-minimal
