@@ -37,7 +37,8 @@ Emil City is considering a more proactive approach for targeting home owners who
 ---
 #### [Risk Modeling - Predictive Policing](http://htmlpreview.github.io/?https://github.com/yzy2000/yzy2000/blob/master/_layouts/Assignment3-Ziyi.html)
 
-A geospatial risk prediction model borrows the weapon violation experience in places where it has been observed, and tests whether that experience generalizes to places where its risk may be high, despite few actual events. If these tests are true, the resulting predictions can be considered a “potential risk” of weapon violations and can be used to distribute police responses across spaces. 
+A geospatial risk prediction model borrows the weapon violation experience in places where it has been observed, and tests whether that experience generalizes to places where its risk may be high, despite few actual events. If these tests are true, the resulting predictions can be considered a “potential risk” of weapon violations and can be used to distribute police responses across spaces. In this project, predicting weapon violation as a function of environmental factors and validate the model against a kernel density.
+
 <img src="images/hw3.png?raw=true" width="600"/>
 
 ---
