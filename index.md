@@ -37,8 +37,7 @@ Emil City is considering a more proactive approach for targeting home owners who
 ---
 #### [Risk Modeling - Predictive Policing](http://htmlpreview.github.io/?https://github.com/yzy2000/yzy2000/blob/master/_layouts/Assignment3-Ziyi.html)
 
-Emil City is considering a more proactive approach for targeting home owners who qualify for a home repair tax credit program. This tax credit program has been around for close to twenty years, the uptake of the credit is woefully inadequate. The consensus at HCD is that the low conversion rate is due to the fact that the agency reaches out to eligible homeowners at random. To move toward a more targeted campaign, convert all the client-level data collected from previous campaigns into a decision-making analytic that can better target their limited outreach resources. The purpose of this project is to train the best classifier I can and use the results to inform a cost-benefit analysis.
-
+A geospatial risk prediction model borrows the weapon violation experience in places where it has been observed, and tests whether that experience generalizes to places where its risk may be high, despite few actual events. If these tests are true, the resulting predictions can be considered a “potential risk” of weapon violations and can be used to distribute police responses across spaces. 
 <img src="images/hw3.png?raw=true" width="600"/>
 
 ---
