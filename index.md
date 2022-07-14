@@ -43,6 +43,14 @@ A geospatial risk prediction model borrows the weapon violation experience in pl
 
 ---
 
+#### [Rocky Mountain National Park travel map](https://github.com/yzy2000/musa-611-final)
+
+Rocky mountain national park is one more visited national park in the United States. With majestic peaks in every direction, wildlife and some most incredible outdoor adventures, it is no wonder more than three million people visit the park each year. Since there are so many spots to visit as well as activities to do there, it is necessary to develop a travel application to help visitors better plan their trips. Under the story map, users could find a brief introduction about the Rocky Mountain National Park, some famous landmarks in the park and also the route from Denver International Airport to four different entrances. We also build a tourism application that services user might want to know about in the park like camping site, pinic location, hiking path, etc.
+
+<img src="images/rocky.png?raw=true" width="600"/>
+
+---
+
 ### RESEARCH PAPER
 
 - [Spatiotemporal patterns and modifiable areal unit problems of the landscape ecological risk in coastal areas: A case study of the Shandong Peninsula, China](https://pubag.nal.usda.gov/catalog/7377767) published on Journal of Cleaner Production 2021 v.310
